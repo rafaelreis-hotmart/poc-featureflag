@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>81122725559-6p7lcin7u9bskt5r8a7l5739k78b29a2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.81122725559-6p7lcin7u9bskt5r8a7l5739k78b29a2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCbD6HgPYFoNqxQ1MssxuIa5z_DEGAef1Y</string>
+	<key>TRACKING_ID</key>
+	<string>UA-66020718-2</string>
+	<key>GCM_SENDER_ID</key>
+	<string>81122725559</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hifire-1184.appspot.com</string>
+	<key>BUNDLE_ID</key>
+	<string>com.hotmart.hifire</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<true/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<false/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:81122725559:ios:33295ca752e63580</string>
+	<key>PROJECT_ID</key>
+	<string>hifire-1184</string>
+	<key>DATABASE_URL</key>
+	<string>https://hifire-1184.firebaseio.com</string>
+</dict>
+</plist>
